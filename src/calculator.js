@@ -7,3 +7,5 @@ function divide(a, b) {
 }
 
 module.exports = { add, subtract, multiply, divide };
+
+// NOTE TEST AUTO CI
